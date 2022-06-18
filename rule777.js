@@ -203,7 +203,6 @@ function generate(left, center, right) {
       }
     }
 
-    alert(insert);
     nextArr[i] = insert;
   }
 }
