@@ -92,9 +92,6 @@ function draw() {
     }
   }
 
-  alert(arr);
-  alert(nextArr);
-
   row += size;
   //goes back to top
 }
